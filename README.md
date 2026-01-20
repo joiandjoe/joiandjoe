@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @wentao zhang
-- 👀 I’m interested in bio and astronomy from the data view
-- 🌱 I’m currently learning data science and stats
-- 💞️ I’m looking to collaborate on every possibilities to make a better world:)
-- 📫 How to reach me : e1123853@u.nus.edu
+- 👋 Hi, I’m @zhang wentao
+- 👀 I’m interested in data and AGI.
+- 💞️ I’m looking to collaborate on every possibilities to make a better world
+- 📫 How to reach me : z_wentao@u.nus.edu
 
 <!---
 joiandjoe/joiandjoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
